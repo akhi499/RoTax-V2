@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const bot = new Discord.Client();
 
-bot.login('MTAwNDI2OTkzMzYzMjQzODM0Mg.G8MV4M.WaW6P24qnWhuRGlygqaurMW3L5v2j3W7HEbsXc');
+bot.login('');
 
 require("dotenv").config();
 
